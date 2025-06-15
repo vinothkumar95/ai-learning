@@ -5,8 +5,8 @@ A collection of interactive web resources for learning about AI concepts and evo
 ## 🚀 Live Demo
 
 Check out the live demos:
-- [AI Evolution Timeline](https://yourusername.github.io/ai-learning/ai_evolution_timeline.html)
-- [Understanding Transformers](https://yourusername.github.io/ai-learning/transformer_guide.html)
+- [AI Evolution Timeline](https://vinothkumar95.github.io/ai-learning/ai_evolution_timeline.html)
+- [Understanding Transformers](https://vinothkumar95.github.io/ai-learning/transformer_guide.html)
 
 ## 📚 Contents
 
